@@ -43,7 +43,7 @@ CONTACTS
 * 0681739094
 
 EMAIL
-*obakengeugene0218
+*obakengeugene0218@gmail.com
 
 GITHUB
 * https://github.com/obakengeuegene0218/Obakeng-Seabelo
