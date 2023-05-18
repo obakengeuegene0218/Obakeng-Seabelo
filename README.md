@@ -39,3 +39,15 @@ HTML
 CSS
 
 
+CONTACTS
+* 0681739094
+
+EMAIL
+*obakengeugene0218
+
+GITHUB
+* https://github.com/obakengeuegene0218/Obakeng-Seabelo
+
+LINKEDIN
+* https://www.linkedin.com/in/obakeng-seabelo-760831265/
+
